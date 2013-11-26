@@ -1,0 +1,8 @@
+C:\Users\mba7\SkyDrive\studies\1311\TimeShift\TimeShift\TimeShift\bin\Debug\TimeShift.exe.config
+C:\Users\mba7\SkyDrive\studies\1311\TimeShift\TimeShift\TimeShift\obj\Debug\TimeShift.csprojResolveAssemblyReference.cache
+C:\Users\mba7\SkyDrive\studies\1311\TimeShift\TimeShift\TimeShift\obj\Debug\TimeShift.Properties.Resources.resources
+C:\Users\mba7\SkyDrive\studies\1311\TimeShift\TimeShift\TimeShift\obj\Debug\TimeShift.csproj.GenerateResource.Cache
+C:\Users\mba7\SkyDrive\studies\1311\TimeShift\TimeShift\TimeShift\bin\Debug\TimeShift.exe
+C:\Users\mba7\SkyDrive\studies\1311\TimeShift\TimeShift\TimeShift\bin\Debug\TimeShift.pdb
+C:\Users\mba7\SkyDrive\studies\1311\TimeShift\TimeShift\TimeShift\obj\Debug\TimeShift.exe
+C:\Users\mba7\SkyDrive\studies\1311\TimeShift\TimeShift\TimeShift\obj\Debug\TimeShift.pdb
